@@ -4,6 +4,8 @@
 
 The Job Fair Portal is a web application designed for the annual job fair at COMSATS University. The platform facilitates both students and companies by providing a centralized space where students can create and upload their resumes, and companies can access these resumes during interviews.
 
+**Note: This project is currently under development. Some features may be incomplete or subject to change.**
+
 ## Features
 
 - **Student Registration:** Students can register on the portal using their university credentials.
